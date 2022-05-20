@@ -228,7 +228,7 @@ included with project. Please make sure MS SQL server running properly.
 Initially in the SQL server, relevant tables and data will be created in
 the database dynamically as code first approach.
 
-## Step 6:## 
+## Step 6:
 
 # Browse full application
 ![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh7.png)
@@ -241,10 +241,10 @@ Summary Report:\
 Product Wise Sale Report\
 ![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh12.png)
 
-Print Barcode## 
+Print Barcode\
 ![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh10.png)
 
-Print Barcode## 
+Print Barcode\
 ![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh11.png)
 
 ## Demo Video Preview
