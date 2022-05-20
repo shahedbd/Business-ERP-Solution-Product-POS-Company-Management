@@ -280,7 +280,8 @@ have faced during installation you can always contact us at,
 
 Cell: +8801674411603
 
-Skype: shahedatomap\
+Skype: shahedatomap
 
+<br />
 
-![https://www.youtube.com/channel/UCdHAVwuNUtfqZRFVI6qf7mg](https://cdn.emojidex.com/emoji/seal/YouTube.png "https://www.youtube.com/channel/UCdHAVwuNUtfqZRFVI6qf7mg")
+[Youtube](https://www.youtube.com/channel/UCdHAVwuNUtfqZRFVI6qf7mg)
