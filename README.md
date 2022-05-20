@@ -279,7 +279,6 @@ have faced during installation you can always contact us at,
 <shahedbddev@gmail.com>
 
 Cell: +8801674411603
-## WhatsApp : +8801701227058
 
 Skype: shahedatomap
 
