@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Business ERP Solution/Product/POS/Company Management
 
 Business ERP Solution/Product/POS/Company Management is an awesome
@@ -21,7 +20,7 @@ Business ERP Solution/Product/POS/Company Management is a .NET
 Core/jQuery-based web application that allows you to manage your sales,
 expense, purchase and inventory from anywhere.
 
-![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/master/resource/sh1.png)
+![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh1.png)
 
 # Core Feature
 
@@ -183,14 +182,14 @@ SERVER 2017/MySQL, IIS, Chrome/Edge Browser.
 
 Unzip the downloaded zip folder (BusinessERP.zip)
 
-![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/master/resource/sh2.png)
+![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh2.png)
 
 ## Step 2:
 
 Open BusinessERP.sln file with Visual Studio 2019/2022\
-![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/master/resource/sh3.png)
+![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh3.png)
 
-![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/master/resource/sh4.png)
+![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh4.png)
 
 ## Step 3:
 
@@ -205,7 +204,7 @@ User ID= Your MSSQL Server User Name
 
 Password= Your MSSQL Server User Password
 
-![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/master/resource/sh5.png)
+![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh5.png)
 
 ## Step 4:
 
@@ -213,7 +212,7 @@ No need to create new migration rule and update database. You just need
 to build and run the application. Already initial migration rule
 included with project. Please make sure MS SQL server running properly.
 
-![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/master/resource/sh6.png)
+![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh6.png)
 
 ## Step 5:
 
@@ -232,21 +231,21 @@ the database dynamically as code first approach.
 ## Step 6:## 
 
 # Browse full application
-![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/master/resource/sh7.png)
+![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh7.png)
 
-![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/master/resource/sh8.png)
+![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh8.png)
 
 Summary Report:\
-![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/master/resource/sh9.png)
+![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh9.png)
 
 Product Wise Sale Report\
-![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/master/resource/sh12.png)
+![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh12.png)
 
 Print Barcode## 
-![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/master/resource/sh10.png)
+![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh10.png)
 
 Print Barcode## 
-![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/master/resource/sh11.png)
+![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh11.png)
 
 ## Demo Video Preview
 ## <https://www.youtube.com/watch?v=Qj1n5o6eX6w>
@@ -285,7 +284,3 @@ Cell: +8801674411603
 Skype: shahedatomap
 
 ## Youtube: <https://www.youtube.com/channel/UCdHAVwuNUtfqZRFVI6qf7mg>
-=======
-<iframe src="https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/Business_ERP_Solution.pdf" width="100% height=100%">
-</iframe>
->>>>>>> 74599f362f511813bcdca72646a347aae7defcfe
