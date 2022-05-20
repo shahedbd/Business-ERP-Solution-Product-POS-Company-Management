@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Business ERP Solution/Product/POS/Company Management
 
 Business ERP Solution/Product/POS/Company Management is an awesome
@@ -284,3 +285,7 @@ Cell: +8801674411603
 Skype: shahedatomap
 
 ## Youtube: <https://www.youtube.com/channel/UCdHAVwuNUtfqZRFVI6qf7mg>
+=======
+<iframe src="https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/Business_ERP_Solution.pdf" width="100% height=100%">
+</iframe>
+>>>>>>> 74599f362f511813bcdca72646a347aae7defcfe
