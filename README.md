@@ -18,7 +18,14 @@ All you need to access this a device with internet connection.
 
 Business ERP Solution/Product/POS/Company Management is a .NET
 Core/jQuery-based web application that allows you to manage your sales,
-expense, purchase and inventory from anywhere.
+expense, purchase and inventory from anywhere. <br /> <br />
+
+
+ [📌 Live Demo Here](http://107.155.65.4:84/Account/Login) <br />
+User Name: admin@gmail.com Pass: 123  <br />
+
+
+[✔️ Buy Script:](https://1.envato.market/OR5o6N) <br /> <br />
 
 ![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh1.png)
 
