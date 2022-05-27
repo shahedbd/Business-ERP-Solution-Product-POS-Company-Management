@@ -25,7 +25,7 @@ expense, purchase and inventory from anywhere. <br /> <br />
 User Name: admin@gmail.com Pass: 123  <br />
 
 
-[✔️ Buy Script:](https://1.envato.market/OR5o6N) <br /> <br />
+[✔️ Buy Script:](https://1.envato.market/AoMzyj) <br /> <br />
 
 ![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh1.png)
 
