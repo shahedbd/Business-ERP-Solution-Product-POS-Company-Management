@@ -21,7 +21,7 @@ Core/jQuery-based web application that allows you to manage your sales,
 expense, purchase and inventory from anywhere. <br /> <br />
 
 
- [📌 Live Demo Here](http://107.155.65.4:84/Account/Login) <br />
+ [📌 Live Demo Here: Login](http://107.155.65.4/Account/Login) <br />
 User Name: admin@gmail.com Pass: 123  <br />
 
 
