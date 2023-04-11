@@ -279,6 +279,27 @@ On the command prompt, type dotnet --version
 
 <br />
 
+# Our Other Solutions
+[✔️ School/College/University Management ERP](https://1.envato.market/15NBrd) <br />
+[✔️ Dashboard Template | ASP.NET Core MVC Web Starter Kit](https://1.envato.market/JrEGWa) <br />
+[✔️ Advance POS System with Stock Manager | ASP.NET Core | EF Core | .NET Core 6.0](https://1.envato.market/9WQxbW) <br />
+[✔️ Asset Management System with Barcode | ASP.NET Core | EF Core | .NET Core 6.0](https://1.envato.market/qnNkey) <br />
+[✔️ Advanced Files & Users Management | ASP.NET Core | EF Core | .NET Core | MSSQL | MySQL](https://1.envato.market/DVaRBq) <br />
+
+[✔️ Hospital and Pharmacy Management System | ASP.NET Core | EF Core](https://1.envato.market/OR5o6N) <br />
+[✔️ Inventory and User Management System](https://1.envato.market/BBB) <br />
+[✔️ Invoice Gen(Invoice Generation and Management) using .Net Core and EF](https://1.envato.market/0JOOm3) <br />
+[✔️ Complaint | Issue | Helpdesk Ticket | My Ticket HelpDesk Support System | ASP.NET Core | EF Core](https://1.envato.market/MXjj5P) <br />
+[✔️ User Management](https://1.envato.market/WDE2JO) <br />
+
+[✔️ ASP.NET Core CRUD Operation Using Dot Net 6.0 | MVC| MSSQL | MySQL | EF Core Code First | jQuery](https://1.envato.market/b3Yeg9) <br />
+[✔️ ASP.NET Core full CRUD with .NET 5 | MSSQL/MySQL | EF code first](https://1.envato.market/OR551W) <br />
+[✔️ Staff | Employee Leave Management System](https://1.envato.market/rnjYzd) <br />
+[✔️ Library Management System | ASP.NET Core | MSSQL | Code First](https://1.envato.market/YgWWgR) <br />
+
+
+
+
 # Supports:
 
 If you want to modify or add new features, or any technical issues you
