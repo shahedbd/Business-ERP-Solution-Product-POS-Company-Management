@@ -301,15 +301,19 @@ On the command prompt, type dotnet --version
 
 
 # Supports:
+If you want to modify or add new features, you can always contact us at,
+📲 WhatsApp: 8801674411603
+📢 Telegram: shahed71bd
+📢 Skype: shahedatomap
+🙏 Email: shahedbddev@gmail.com
+♾️ Web: https://zerobyteai.com/
 
-If you want to modify or add new features, or any technical issues you
-have faced during installation you can always contact us at,
-<shahedbddev@gmail.com>
+👋 .NET Application Collections
+https://1.envato.market/7mA73y
 
-Cell: +8801674411603
-
-Skype: shahedatomap
+🚀 My Youtube Channel
+[Youtube](https://www.youtube.com/channel/UCdHAVwuNUtfqZRFVI6qf7mg)
 
 <br />
 
-[Youtube](https://www.youtube.com/channel/UCdHAVwuNUtfqZRFVI6qf7mg)
+
