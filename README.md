@@ -255,7 +255,7 @@ Print Barcode\
 ![App Screenshot](https://github.com/shahedbd/Business-ERP-Solution-Product-POS-Company-Management/blob/main/resource/sh11.png)
 
 ## Demo Video Preview
-## <https://www.youtube.com/watch?v=Qj1n5o6eX6w>
+## <https://youtu.be/3KvfvCCQ1Y8>
 
 ## App Screenshot:
 
